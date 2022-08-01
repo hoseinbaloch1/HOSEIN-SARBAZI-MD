@@ -17,7 +17,8 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'
+': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
@@ -39,16 +40,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'හරි ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    success: 'ok ✓',
+    admin: 'Fagat Admin Mitvanad Az In Gabliyat Stfade Konad!',
+    botAdmin: 'In Vizhegi Fagat Baraye Admin Ast !',
+    owner: 'In Vizhegi Fagat Baraye Owner Mibashad!',
+    group: 'In Gablyat Fagat Braye Group Ha Mibashad!',
+    private: 'In Gablyat Fagat Braye Private Chat Ha Mibashad!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'ටිකක් ඉන්න...',
-    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    wait: 'Lotfan Sabr Konid...',
+    error: 'Moshkeli Vejod Darad🤔!',
+    endLimit: 'Shoma Ban Shodi Bayad 12 Sat Sabr Konid',
 }
     global.limitawal = {
     premium: "Infinity",
