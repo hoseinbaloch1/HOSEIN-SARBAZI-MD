@@ -25,31 +25,31 @@ global.APIKeys = {
 global.owner = ['9339658384']
 global.premium = ['9339658384']
 global.ownernomer = '9339658384'
-global.ownername = 'HOSEIN BALOCH'
+global.ownername = 'HOSEIN_BALOCH'
 global.botname = 'HOSEIN SARBAZI MD BOT'
 global.footer = 'HOSEIN SARBAZI MD'
-global.cap = '*Genarated By HOSEIN SARBAZI Md*'
+global.cap = '*Genarated By Hosein Sarbazi Md*'
 global.ig = 'https://github.com/hoseinbaloch'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
 global.sc = 'https://github.com/hoseinbaloch'
 global.myweb = 'https://chat.whatsapp.com/GDZMyhooBar5FxfzPhUrOn'
-global.packname ='hosein sarbazi Md Sticker Bot'
-global.author = 'HOSEIN SARBAZI'
+global.packname ='Hosein Sarbazi Md Sticker Bot'
+global.author = 'HOSEIN_SARBAZI'
 global.autobio = 'true'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'ok ✓',
-    admin: 'Fagat Admin Mitvanad Az In Gabliyat Stfade Konad!',
-    botAdmin: 'In Vizhegi Fagat Baraye Admin Ast !',
-    owner: 'In Vizhegi Fagat Baraye Owner Mibashad!',
-    group: 'In Gablyat Fagat Braye Group Ha Mibashad!',
-    private: 'In Gablyat Fagat Braye Private Chat Ha Mibashad!',
+    admin: 'This Feature Is Only For Admin!',
+    botAdmin: 'Bot Must Be Admin First!',
+    owner: 'This Feature Is Only For Owner!',
+    group: 'Feature Used Only For Groups!',
+    private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Lotfan Sabr Konid...',
-    error: 'Moshkeli Vejod Darad🤔!',
-    endLimit: 'Shoma Ban Shodi Bayad 12 Sat Sabr Konid',
+    wait: 'ටිකක් ඉන්න...',
+    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
