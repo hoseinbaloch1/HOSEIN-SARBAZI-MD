@@ -1,4 +1,4 @@
-# VIHANGA-BOT-MD
+# HOSEIN-BOT-MD
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
@@ -19,7 +19,7 @@
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="hoseinMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
