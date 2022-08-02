@@ -2,7 +2,7 @@
   "name": "HoseinBot-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/hoseinbaloch1/VihangaBot-MD",
-  "logo": "hhttps://i.ibb.co/THTK67m/Vihanga-MD.png",
+  "logo": "https://i.ibb.co/THTK67m/Vihanga-MD.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
