@@ -1,9 +1,9 @@
-# HOSEIN-BOT-MD
+# HOSEIN-SARBAZI-MD
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+HOSEIN-SARBAZI+MD+WA+BOT.;CREATED+BY+HOSEIN-BALOCH+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+HOSEIN+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
@@ -13,39 +13,34 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/5W3gfSG/image.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="hoseinMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="حسین صربازی" src="https://i.ibb.co/HnMm6f4/image.jpg"></a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">ربات حسین صربازی امید وارم خوشتون بیاد  </br> 
 
 
-1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. روی [اسکن](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR3?v=1) کلیک کنید و بارکد داده شده را داخل واتساپ اسکن کنید 
 
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD/fork)
+2. روی [فورک](https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD/fork) کلیک کنید 
 
-2. After That Upload Session.json File
+2.  و بعد از کلیک کردن فایلی ک از طریق اسکن کد واتساپ برایتان فرستاده رو اپلود کنید
 
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+3. اگر اکانت [هورک](https://signup.heroku.com/), ندارید بسازید
 
-5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+5. و بعد روی [ساخت ربات](https://heroku.com/deploy) کلیک کنید و ربات خودتون رو بسازید 
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`HOSEIN-SARBAZI`](https://github.com/hoseinbaloch1)
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
+* [`HOSEIN-BALOCH`](https://github.com/hoseinbaloch)
