@@ -28,7 +28,7 @@
 <p align="center">ربات حسین صربازی امید وارم خوشتون بیاد  </br> 
 
 
-1. روی [اسکن](https://replit.com/@ywtywbHsyn/HOSEIN-SARBAZI-MD?v=1) کلیک کنید و بارکد داده شده را داخل واتساپ اسکن کنید 
+1. روی [اسکن](https://replit.com/@ywtywbHsyn/HOSEINSARBAZIMD?v=1) کلیک کنید و بارکد داده شده را داخل واتساپ اسکن کنید 
 
 2. روی [فورک](https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD/fork) کلیک کنید 
 
