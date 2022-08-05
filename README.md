@@ -36,7 +36,7 @@
 
 3. اگر اکانت [هورک](https://signup.heroku.com/), ندارید بسازید
 
-5. و بعد روی [ساخت ربات](https://heroku.com/deploy) کلیک کنید و ربات خودتون رو بسازید 
+5. و بعد روی [ساخت ربات](https://heroku.com/deploy?template=https://github.com/hoseinbaloch1/HOSEIN-SARBAZI-MD) کلیک کنید و ربات خودتون رو بسازید 
 
 
 ## Owner:
